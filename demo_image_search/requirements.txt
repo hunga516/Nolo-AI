@@ -1,0 +1,8 @@
+gradio
+spaces
+sentence-transformers
+faiss-gpu-cu12
+pillow
+numpy
+torch
+torchvision
